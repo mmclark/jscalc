@@ -1,0 +1,32 @@
+{
+  "name": "jscalc",
+  "version": "1.0.0",
+  "description": "JavaScript Calculator for freeCodeCamp",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "tape": "^4.6.3"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "node js/tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmclark/jscalc.git"
+  },
+  "keywords": [
+    "javascript",
+    "calculator"
+  ],
+  "author": "Miles Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmclark/jscalc/issues"
+  },
+  "homepage": "https://github.com/mmclark/jscalc#readme"
+}

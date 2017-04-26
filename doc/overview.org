@@ -1,0 +1,20 @@
+#+title: JavaScript Calculator
+
+* User Stories
+  - [ ] I can add, subtract, multiply and divide two numbers
+  - [ ] I can clear the input field with a clear button
+  - [ ] I can keep chaining mathematical operations together until I
+    hit the equal button and the calculator will tell me the correct
+    output.
+
+* Resources
+  - [[https://forum.freecodecamp.com/search?q%3Djavascript%2520calculator][freeCodeCamp Forums for JavaScript Calculator]]
+  - [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval][MDN: eval()]]
+
+* Notes
+  - The temptation would be to use eval() for the calculation, but I'm
+    leaning against it.  eval() can be dangerous, and it would be
+    interesting to develop the logic for a simple 4-function
+    calculator.
+
+* Setting up
