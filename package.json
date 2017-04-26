@@ -13,7 +13,8 @@
     "tape": "^4.6.3"
   },
   "scripts": {
-    "test": "node js/tests/test.js"
+    "test": "node js/tests/test.js",
+    "ci": "node js/tests/test.js"
   },
   "repository": {
     "type": "git",
