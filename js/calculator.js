@@ -9,6 +9,7 @@ function Calculator() {
  * Take an expression string and split it into tokens
  */
 Calculator.prototype.tokenize = function (expression) {
+  // Might be useful later: https://blog.tompawlak.org/split-string-into-tokens-javascript
   return expression.split(' ');
 };
 
