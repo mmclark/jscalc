@@ -7,6 +7,9 @@
 
 JavaScript Calculator for freeCodeCamp
 
+To run tests:
+
+$ npm test
 
 
 [travis-img]: https://travis-ci.org/mmclark/jscalc.svg?branch=master
